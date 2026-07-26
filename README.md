@@ -57,3 +57,10 @@ src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </p>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/viczuno/viczuno/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/viczuno/viczuno/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/viczuno/viczuno/output/github-contribution-grid-snake.svg">
+</picture>
